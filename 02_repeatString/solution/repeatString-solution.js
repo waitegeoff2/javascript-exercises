@@ -7,4 +7,6 @@ const repeatString = function (word, times) {
   return string;
 };
 
+repeatString("odin",number);
+
 module.exports = repeatString;
